@@ -20,7 +20,7 @@ ul {
     padding: 0;
 }
 
-/* Header */
+/*                           Header Area                             */
 header {
     background: #b4b4b4;
     color: aliceblue;
@@ -63,5 +63,12 @@ header .highlight {
 
 header a:hover{
     color: #967bb6;
+    font-weight: bold;
 }
 
+/*                          Showcase Area                             */
+
+#showcase {
+    min-height: 400px;
+    background:url('https://media.giphy.com/media/yk9kkQMOnrXeCT2vrx/giphy.gif');
+}
