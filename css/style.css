@@ -70,7 +70,9 @@ header a:hover{
 
 #showcase {
     min-height: 400px;
-    background:url('https://media.giphy.com/media/c3OZsDoaz7kD6/giphy.gif') no-repeat;
-    background-position: center;
+    background:url('https://media.giphy.com/media/c3OZsDoaz7kD6/giphy.gif') no-repeat 50% -10px;
+    text-align: center;
+    font-weight: bold;
+    color: #967bb6;
 }
 
