@@ -74,6 +74,7 @@ header a:hover{
     text-align: center;
     font-weight: bold;
     color: #967bb6;
+
 }
 
 #showcase h1 {
@@ -82,3 +83,24 @@ header a:hover{
     margin-bottom: 10px;
 }
 
+#showcase p {
+    font-size: 22px;
+}
+
+.border {
+}
+
+#newsletter {
+    background: #b4b4b4;
+    padding: 15px;
+    color: white;
+
+}
+
+#newsletter h1 {
+    float: left;
+}
+
+#newsletter form {
+    float: right;
+}
