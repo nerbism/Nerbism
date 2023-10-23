@@ -145,3 +145,12 @@ header a:hover{
     width: 30%;
     padding: 10px;
 }
+
+/*                          Footer Area                             */
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: #747474;
+    text-align: center;
+}
