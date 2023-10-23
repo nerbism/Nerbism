@@ -20,6 +20,16 @@ ul {
     padding: 0;
 }
 
+.button1 {
+    height: 38px;
+    background: #967bb6;
+    width: 100px;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
 /*                           Header Area                             */
 header {
     background: #b4b4b4;
