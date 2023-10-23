@@ -126,3 +126,22 @@ header a:hover{
     height: 25px;
     width: 250px;
 }
+
+
+/*                          BoxCards Area                             */
+
+#boxcards {
+    margin-top: 20px;
+}
+
+#boxcards img {
+    width: 250px;
+    height: 200px;
+}
+
+#boxcards .box {
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
