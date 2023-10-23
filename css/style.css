@@ -99,10 +99,16 @@ header a:hover{
 
 #newsletter h1 {
     float: left;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 #newsletter form {
     float: right;
-    margin-top: 5px;
+    margin-top: 15px;
+}
+
+#newsletter input[type='email']{
+    padding: 5px;
+    height: 25px;
+    width: 250px;
 }
