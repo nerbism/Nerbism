@@ -148,6 +148,20 @@ header a:hover{
     width: 30%;
     padding: 10px;
 }
+/*                          Sidebar Area                             */
+aside#sidebar {
+    float: right;
+    width: 20%;
+    margin-top: 10px;
+}
+
+/*                          Main Area(About)                             */
+article#main-col {
+    float: left;
+    width: 67%;
+}
+
+
 
 /*                          Footer Area                             */
 footer {
