@@ -165,6 +165,14 @@ article#main-col {
     width: 67%;
 }
 
+ul#services li {
+    list-style: none;
+    border: gray solid 1px;
+    padding: 20px;
+    margin-bottom: 5px;
+    background: lightgray;
+}
+
 
 
 /*                          Footer Area                             */
