@@ -222,12 +222,15 @@ footer {
     margin-top: 50px;
    }
 
-   #newsletter form input[type='email']{
+   #newsletter form input[type='email'],
+   #sidebar .quote input,
+   #sidebar .quote textarea{
     width: 100%;
     margin-bottom: 5px;
    }
 
-   #newsletter button{
+   #newsletter button, 
+   .quote .button1{
     display: block;
     width: 100%;
    }
