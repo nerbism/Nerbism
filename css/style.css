@@ -204,7 +204,8 @@ footer {
    header nav,
    header nav li, 
    #newsletter h1,
-   #newsletter form{
+   #newsletter form,
+   #boxcards .box{
     float: none;
     text-align: center;
     width: 100%;
@@ -221,6 +222,7 @@ footer {
 
    #newsletter form input[type='email']{
     width: 100%;
+    margin-bottom: 5px;
    }
 
    #newsletter button{
