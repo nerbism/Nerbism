@@ -104,8 +104,8 @@ header a:hover{
     font-size: 22px;
 }
 
-.border {
-}
+/* .border {
+} */
 
 
 /*                           Newsletter Area                             */
@@ -186,4 +186,25 @@ footer {
     color: white;
     background-color: #747474;
     text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+/*                         MediaQ Area                             */
+
+@media screen and (max-width: 768px){
+   header #branding,
+   header nav,
+   header nav li{
+    float: none;
+    text-align: center;
+    width: 100%;
+   }
 }
