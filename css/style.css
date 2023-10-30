@@ -159,7 +159,7 @@ aside#sidebar {
     margin-top: 10px;
 }
 
-/*                          Main Area(About)                             */
+/*                          Main Area                             */
 article#main-col {
     float: left;
     width: 67%;
@@ -176,6 +176,12 @@ ul#services li {
 aside .quote input, aside .quote textarea {
     width: 90%;
     padding: 5px;
+}
+
+aside#sidebar .highlight {
+    color: #967bb6;
+    font-weight: bolder;
+    text-decoration: underline;
 }
 
 
