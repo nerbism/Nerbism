@@ -188,6 +188,19 @@ aside#sidebar .highlight {
     text-decoration: underline;
 }
 
+article#main-col .highlight {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+article#main-col #minidis{
+font-size: smaller
+;}
+
+
+
+
+
 
 /*                          Footer Area                             */
 footer {
