@@ -178,6 +178,10 @@ aside .quote input, aside .quote textarea {
     padding: 5px;
 }
 
+article#main-col img {
+    width: 80%;
+}
+
 aside#sidebar .highlight {
     color: #967bb6;
     font-weight: bolder;
