@@ -198,6 +198,14 @@ font-size: smaller
 ;}
 
 
+.dark {
+    padding: 15px;
+    background: darkgrey;
+    color:white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 
 
 
