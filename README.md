@@ -1,16 +1,35 @@
-### Hi there 👋
+# Nerbs Vsuals 
 
-<!--
-**nerbism/Nerbism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A brief description of your project.
 
-Here are some ideas to get you started:
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Acknowledgments](#acknowledgments)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Getting Started
+
+Explain how to set up your project, including prerequisites and installation steps.
+
+## Installation
+
+# Clone the repository
+git clone https://github.com/nerbism/Nerbism.git
+
+# Change directory
+cd your-repo
+
+## Features
+
+* Home Page
+* About Page that tells you all you need to know about Nerb.
+* Services Page that shows Nerb's services.
+* Newsletter Subscribtion
+* Quote systeem where you can request a quote.
+
+## Acknowledgments
+
+Used a third-party tool called "FormSubmit"
+Documenation here: https://formsubmit.co/documentation
