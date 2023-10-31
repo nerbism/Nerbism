@@ -18,6 +18,9 @@ Explain how to set up your project, including prerequisites and installation ste
 # Clone the repository
 git clone https://github.com/nerbism/Nerbism.git
 
+cd Nerbism
+
+
 # Change directory
 cd your-repo
 
