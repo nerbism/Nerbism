@@ -35,4 +35,5 @@ cd your-repo
 ## Acknowledgments
 
 Used a third-party tool called "FormSubmit"
-Documenation here: https://formsubmit.co/documentation
+<br />
+Documentation here: https://formsubmit.co/documentation
